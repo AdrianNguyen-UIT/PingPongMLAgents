@@ -1,0 +1,33 @@
+{
+    "name": "BallAction",
+    "maps": [
+        {
+            "name": "Ball",
+            "id": "93749911-e627-46dc-862f-59b0d2ed4e19",
+            "actions": [
+                {
+                    "name": "Launch",
+                    "type": "Button",
+                    "id": "d6061dc4-9755-4a77-a4cf-117ee3aecc66",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "030058ce-f283-4414-bd76-ac0d9cb617c6",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Launch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
