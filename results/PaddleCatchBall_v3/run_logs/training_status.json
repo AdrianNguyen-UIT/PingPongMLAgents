@@ -1,0 +1,30 @@
+{
+    "PaddleCatchBall": {
+        "elo": 1232.9467118441057,
+        "checkpoints": [
+            {
+                "steps": 393316,
+                "file_path": "results\\PaddleCatchBall_v3\\PaddleCatchBall\\PaddleCatchBall-393316.onnx",
+                "reward": 17.272727272727273,
+                "creation_time": 1625811726.5946639,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v3\\PaddleCatchBall\\PaddleCatchBall-393316.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 393316,
+            "file_path": "results\\PaddleCatchBall_v3\\PaddleCatchBall.onnx",
+            "reward": 17.272727272727273,
+            "creation_time": 1625811726.5946639,
+            "auxillary_file_paths": [
+                "results\\PaddleCatchBall_v3\\PaddleCatchBall\\PaddleCatchBall-393316.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

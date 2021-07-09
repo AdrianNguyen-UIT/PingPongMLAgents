@@ -1,0 +1,57 @@
+{
+    "PaddleCatchBall": {
+        "checkpoints": [
+            {
+                "steps": 499955,
+                "file_path": "results\\PaddleCatchBall_v1\\PaddleCatchBall\\PaddleCatchBall-499955.onnx",
+                "reward": 2.4390243902439024,
+                "creation_time": 1625758519.391909,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v1\\PaddleCatchBall\\PaddleCatchBall-499955.pt"
+                ]
+            },
+            {
+                "steps": 999510,
+                "file_path": "results\\PaddleCatchBall_v1\\PaddleCatchBall\\PaddleCatchBall-999510.onnx",
+                "reward": 6.333333333333333,
+                "creation_time": 1625759374.6176496,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v1\\PaddleCatchBall\\PaddleCatchBall-999510.pt"
+                ]
+            },
+            {
+                "steps": 1499585,
+                "file_path": "results\\PaddleCatchBall_v1\\PaddleCatchBall\\PaddleCatchBall-1499585.onnx",
+                "reward": 19.0,
+                "creation_time": 1625760237.2901266,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v1\\PaddleCatchBall\\PaddleCatchBall-1499585.pt"
+                ]
+            },
+            {
+                "steps": 1634595,
+                "file_path": "results\\PaddleCatchBall_v1\\PaddleCatchBall\\PaddleCatchBall-1634595.onnx",
+                "reward": 20.0,
+                "creation_time": 1625760479.572353,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v1\\PaddleCatchBall\\PaddleCatchBall-1634595.pt"
+                ]
+            }
+        ],
+        "elo": 973.1625777774457,
+        "final_checkpoint": {
+            "steps": 1634595,
+            "file_path": "results\\PaddleCatchBall_v1\\PaddleCatchBall.onnx",
+            "reward": 20.0,
+            "creation_time": 1625760479.572353,
+            "auxillary_file_paths": [
+                "results\\PaddleCatchBall_v1\\PaddleCatchBall\\PaddleCatchBall-1634595.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
