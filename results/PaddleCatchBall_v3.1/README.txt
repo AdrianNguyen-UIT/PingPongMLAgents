@@ -17,4 +17,3 @@ random velocity tweak when collide (all directions).
 random ball reset (position, velocity).
 random agent reset (position, velocity).
 auto reset when ball is away too long (15s, both agent).
-change configuration (batch_size, buffer_size, hidden_units, num_layers)

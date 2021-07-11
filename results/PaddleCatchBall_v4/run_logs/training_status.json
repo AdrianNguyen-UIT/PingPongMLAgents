@@ -2,32 +2,59 @@
     "PaddleCatchBall": {
         "checkpoints": [
             {
-                "steps": 499141,
-                "file_path": "results\\PaddleCatchBall_v4\\PaddleCatchBall\\PaddleCatchBall-499141.onnx",
-                "reward": 38.111111111111114,
-                "creation_time": 1625812802.7935398,
+                "steps": 2499198,
+                "file_path": "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-2499198.onnx",
+                "reward": 80.5,
+                "creation_time": 1625909841.6773145,
                 "auxillary_file_paths": [
-                    "results\\PaddleCatchBall_v4\\PaddleCatchBall\\PaddleCatchBall-499141.pt"
+                    "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-2499198.pt"
                 ]
             },
             {
-                "steps": 880621,
-                "file_path": "results\\PaddleCatchBall_v4\\PaddleCatchBall\\PaddleCatchBall-880621.onnx",
-                "reward": 33.285714285714285,
-                "creation_time": 1625813580.577625,
+                "steps": 2999471,
+                "file_path": "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-2999471.onnx",
+                "reward": null,
+                "creation_time": 1625910762.270613,
                 "auxillary_file_paths": [
-                    "results\\PaddleCatchBall_v4\\PaddleCatchBall\\PaddleCatchBall-880621.pt"
+                    "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-2999471.pt"
+                ]
+            },
+            {
+                "steps": 3499369,
+                "file_path": "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-3499369.onnx",
+                "reward": 104.5,
+                "creation_time": 1625911670.7041645,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-3499369.pt"
+                ]
+            },
+            {
+                "steps": 3999715,
+                "file_path": "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-3999715.onnx",
+                "reward": null,
+                "creation_time": 1625912597.328111,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-3999715.pt"
+                ]
+            },
+            {
+                "steps": 4111789,
+                "file_path": "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-4111789.onnx",
+                "reward": 111.5,
+                "creation_time": 1625912793.2957976,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-4111789.pt"
                 ]
             }
         ],
-        "elo": 1246.3959959104443,
+        "elo": 1560.815441324151,
         "final_checkpoint": {
-            "steps": 880621,
-            "file_path": "results\\PaddleCatchBall_v4\\PaddleCatchBall.onnx",
-            "reward": 33.285714285714285,
-            "creation_time": 1625813580.577625,
+            "steps": 4111789,
+            "file_path": "results\\PaddleCatchBall_v6\\PaddleCatchBall.onnx",
+            "reward": 111.5,
+            "creation_time": 1625912793.2957976,
             "auxillary_file_paths": [
-                "results\\PaddleCatchBall_v4\\PaddleCatchBall\\PaddleCatchBall-880621.pt"
+                "results\\PaddleCatchBall_v6\\PaddleCatchBall\\PaddleCatchBall-4111789.pt"
             ]
         }
     },

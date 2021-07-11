@@ -1,0 +1,66 @@
+{
+    "PaddleCatchBall": {
+        "checkpoints": [
+            {
+                "steps": 5999335,
+                "file_path": "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-5999335.onnx",
+                "reward": 187.0,
+                "creation_time": 1625981600.3918087,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-5999335.pt"
+                ]
+            },
+            {
+                "steps": 6499036,
+                "file_path": "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-6499036.onnx",
+                "reward": 118.5,
+                "creation_time": 1625982382.017856,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-6499036.pt"
+                ]
+            },
+            {
+                "steps": 6999255,
+                "file_path": "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-6999255.onnx",
+                "reward": null,
+                "creation_time": 1625983164.8368986,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-6999255.pt"
+                ]
+            },
+            {
+                "steps": 7499117,
+                "file_path": "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-7499117.onnx",
+                "reward": 254.0,
+                "creation_time": 1625983965.063404,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-7499117.pt"
+                ]
+            },
+            {
+                "steps": 7607411,
+                "file_path": "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-7607411.onnx",
+                "reward": 50.5,
+                "creation_time": 1625984200.3858826,
+                "auxillary_file_paths": [
+                    "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-7607411.pt"
+                ]
+            }
+        ],
+        "elo": 1743.3969604692059,
+        "final_checkpoint": {
+            "steps": 7607411,
+            "file_path": "results\\PaddleCatchBall_v7\\PaddleCatchBall.onnx",
+            "reward": 50.5,
+            "creation_time": 1625984200.3858826,
+            "auxillary_file_paths": [
+                "results\\PaddleCatchBall_v7\\PaddleCatchBall\\PaddleCatchBall-7607411.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
